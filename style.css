@@ -1,0 +1,49 @@
+/* Top Part Start */
+
+.container-1{
+    background-color: #264653;    
+}
+.bike-name{
+    font-size: 48px; color:#FFFFFF; font-weight:bolder; 
+} 
+.bike-description{
+    color: #E0E0E0;
+}
+/* Top Part End */
+
+/* Bike Collection Part Start */
+.bike-collection-title{
+    font-size: 48px; font-weight: bolder;
+}
+.bike-collection-title-2{
+    color: rgba(231, 111, 81, 1);
+    font-weight: bold;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+/* Bike Collection Part End */
+
+/* Clients Review Part Start */
+.client-text{
+    font-size: 48px; font-weight: bold;
+}
+.client-text-1{
+    font-size: 48px; font-weight: bold; color:tomato;
+}
+.review{
+    color: rgba(108, 108, 108, 1); text-align: justify;
+}
+.customer-name{
+    text-decoration: none; font-weight: bold;
+}
+.customer-profession{
+    font-weight: bold;
+}
+ /* Clients Review Part End */
+ /* FAQ start */
+ .accordion-button{
+color: rgb(0, 0, 0); font-size: 20px;}
+ .accordion-body{
+color: rgba(126, 132, 140, 1);
+ }
