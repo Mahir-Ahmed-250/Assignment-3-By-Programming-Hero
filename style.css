@@ -9,9 +9,17 @@
 .bike-description{
     color: #E0E0E0;
 }
+.purchase-button{
+    width: 168px;
+    height: 44px;
+    color: #ffffff;
+    background-color: #E76F51;  
+}
+  
 /* Top Part End */
 
 /* Bike Collection Part Start */
+
 .bike-collection-title{
     font-size: 48px; font-weight: bolder;
 }
@@ -22,14 +30,16 @@
 .grayscale{
     filter: grayscale(100%);
 }
+
 /* Bike Collection Part End */
 
 /* Clients Review Part Start */
+
 .client-text{
     font-size: 48px; font-weight: bold;
 }
 .client-text-1{
-    font-size: 48px; font-weight: bold; color:tomato;
+    font-size: 48px; font-weight: bold; color:rgb(245, 63, 31);
 }
 .review{
     color: rgba(108, 108, 108, 1); text-align: justify;
@@ -40,10 +50,64 @@
 .customer-profession{
     font-weight: bold;
 }
- /* Clients Review Part End */
- /* FAQ start */
+
+/* Clients Review Part End */
+
+/* FAQ Start */
+
  .accordion-button{
-color: rgb(0, 0, 0); font-size: 20px;}
+    color: rgb(0, 0, 0); font-size: 20px;}
  .accordion-body{
-color: rgba(126, 132, 140, 1);
+    color: rgba(126, 132, 140, 1);
  }
+
+ /* FAQ End */
+
+ /* Extra Part Start */
+ 
+ .submit-button{ width: 100px;
+    height: 44px;
+    color: #ffffff;
+    background-color: #3596f0;  
+}
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56%;  
+}
+  .iframe-container iframe{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.youtube{
+    color: red;
+}
+
+/* Extra Part End */
+
+/* Footer Start */
+.icon img{
+    width: 400px;
+    height: 110px;
+}
+.soical-media1{
+    font-size: 50px;
+    color: red;; margin-right: 14px;
+}
+.soical-media2{
+    font-size: 50px; margin-right: 14px;
+    color: #fb3958;
+}
+.soical-media3{
+    font-size: 50px; margin-right: 14px;
+        color:  #00acee;
+}
+.soical-media4{
+    font-size: 50px; margin-right: 14px;
+    color: red;
+}
+.copyright{
+    font-size: 25px; font-weight: bold; color: rgb(81, 79, 90);
+}
+/* Footer End */
